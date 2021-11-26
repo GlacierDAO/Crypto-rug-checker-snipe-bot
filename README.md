@@ -39,6 +39,10 @@ Please choose coins carefully, remember that a big quantity of those are scam!
 :white_check_mark: open terminal/bash/shell at your bot directory and run `node start.js` command.
 If you have some problems, try to rerun it
 
+## Usage example:
+
+![my screenshot](/image/validate_token.png).
+
 
 ## Warnings:
 
