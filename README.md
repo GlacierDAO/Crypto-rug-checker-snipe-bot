@@ -36,7 +36,7 @@ Please choose coins carefully, remember that a big quantity of those are scam!
 * `SNIPE_BNB_AMOUNT`
 * `SLIPPAGE`
 
-:white_check_mark: open terminal/bash/shell at your bot directory and run `node buyToken.js` command.
+:white_check_mark: open terminal/bash/shell at your bot directory and run `node start.js` command.
 If you have some problems, try to rerun it
 
 
