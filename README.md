@@ -21,7 +21,7 @@ Please choose coins carefully, remember that a big quantity of those are scam!
 
 :white_check_mark: clone repository or download zip archive and extract bot to a preferred folder
 
-:white_check_mark: download and install `Node.j`s on your pc if you hadn't done it before: https://nodejs.org/en/download/
+:white_check_mark: download and install `Node.js` on your pc if you hadn't done it before: https://nodejs.org/en/download/
 
 :white_check_mark: open terminal/bash/shell at your bot directory and run `npm install` command to install dependencies
 
