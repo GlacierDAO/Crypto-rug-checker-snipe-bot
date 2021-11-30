@@ -1,5 +1,5 @@
 # Crypto-rug-checker-snipe-bot
-Nodejs applications for analyzing and sniping tokens :chart:
+Nodejs applications for analyzing and sniping tokens on PancakeSwap and Uniswap :chart:
 
 
 ## About bot:
@@ -54,6 +54,8 @@ also, remember 80% of new shitcoins are SCAM and make a responsible decision whe
 
 ## Gratitudes for the donations:
 :relaxed: markon1 - 0.4 ETH
+
+:relaxed: valuevaAnna - 2.0 BNB
 
 :relaxed: jkwilliamson - 1.2 BNB
 
