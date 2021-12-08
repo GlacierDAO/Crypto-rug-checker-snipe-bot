@@ -49,7 +49,8 @@ If you have some problems, try to rerun it
 :warning:
 PLEASE DO NOT SHARE YOU PRIVATE KEY WITH ANYBODY, YOU CAN LOSE ALL YOUR CREDITS FROM YOUR ACCOUNT
 
-also, remember 80% of new shitcoins are SCAM and make a responsible decision whether to buy coin or not
+:warning:
+ALSO REMEMBER that 80% of new shitcoins are SCAM and make a responsible decision whether to buy coin or not
 
 
 ## Gratitudes for the donations:
@@ -58,6 +59,8 @@ also, remember 80% of new shitcoins are SCAM and make a responsible decision whe
 :relaxed: valuevaAnna - 2.0 BNB
 
 :relaxed: jkwilliamson - 1.2 BNB
+
+:relaxed: JulliAnna - 0.627 BNB
 
 :relaxed: ruslanprihodko91 - 0.511 BNB
 
@@ -72,12 +75,15 @@ You can copy it from your `Metamask` as on screenshot below. After token bought,
 
 2. Where to get my private key?
 
-First of all, be very carefull and keep your `PRIVATE KEY` savely - do not ever send it to anybody!
+First of all, be very careful and keep your `PRIVATE KEY` safely - do not ever send it to anybody!
 You cam retrieve your account's private key from `Metamask` - three vertical dots on right side from account name -> `Account details` -> `Export private key`
 
 ## Feedback:
-I would be grateful for your feedback and bot improvements proposals, you can contact me by email:
-`ajeffersonibm@gmail.com`
+I would be grateful for your feedback and bot improvements proposals, you can contact me by email or telegram:
+
+my email - `ajeffersonibm@gmail.com`
+
+my telegram - `@anthony1987jeff`
 
 ## Your thanks:
 BOT is free-to-use, but you are welcome to appreciate my work :relaxed:
